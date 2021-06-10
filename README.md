@@ -27,16 +27,16 @@ If you have a question or aren’t sure if something is worth including, you can
 	- [SDKs](#SDKs)
 	- [APIs](#APIs)
 	- [Documentation](#Documentation)
-	- [WordPress Plugins](#WordPress Plugins)
+	- [WordPress Plugins](#WordPress-Plugins)
 	- [Add-ons/Components](#Add-ons/Components)
 	- [Tools](#Tools)
 		- [Converters](#Converters)
 		- [Misc](#Misc)
-	-[Services](#Services)
-	-[Guides and Tutorials](#Guides and Tutorials)
-	-[Videos](#Videos)
-	-[Credits/Other lists](#Credits/Other lists)
-	-[License](#License)
+	- [Services](#Services)
+	- [Guides and Tutorials](#Guides-and-Tutorials)
+	- [Videos](#Videos)
+	- [Credits/Other lists](#Credits/Other-lists)
+	- [License](#License)
 
 ## Libraries
 
