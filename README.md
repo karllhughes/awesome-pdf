@@ -132,6 +132,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 - [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api) - Convert HTML to PDF files.
 - [DocRaptor](https://docraptor.com/) - HTML to PDF API.
+- [HTPBE?](https://htpbe.tech/api) - Forensic API that detects tampered/modified PDFs from the structural layer (metadata, xref, incremental updates, signatures); works without the original file.
 - [RichText2Pdf API](https://rapidapi.com/convertapi/api/richtext2pdf/details) - Convert rich text documents to PDF.
 - [Excel2Pdf API](https://english.api.rakuten.net/convertapi/api/excel2pdf) - Convert Excel docs to PDF files.
 - [DOCX to PDF API](https://www.convertapi.com/docx-to-pdf) - Convert Word to PDF.
