@@ -205,6 +205,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based PDF utilities with no signup. Includes Chat with PDF (ask questions about a PDF) and PDF to Markdown (extract structured Markdown from PDFs). Client-side processing; part of a larger suite of single-purpose web tools. Open source.
 
 - [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free, privacy-first online PDF toolkit — merge, split, compress, convert, OCR, e-sign, and more. All processing is client-side; files never leave the browser.
+- [Codegrain](https://private-tools.codegrain.dev) - Free suite of browser-based PDF, image and data tools (merge, split, compress, sign, HEIC→JPG, EXIF removal, compress-to-target-size); every file is processed client-side with no upload, account or limits.
 
 ## Software
 
