@@ -167,6 +167,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 ## Tools
 - [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free browser-based PDF tools. Compress, merge, split, convert. All local WebAssembly processing — no file uploads.
+- [hushvert](https://hushvert.com) - Privacy-first browser-based PDF tools. Merge, split, rotate, and render PDFs locally via WebAssembly with no file uploads, plus a hosted API for PDF to Word and Office to PDF.
 
 ### Converters
 
