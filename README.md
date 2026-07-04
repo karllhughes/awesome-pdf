@@ -117,6 +117,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 ### Misc/Multi-language
 
+- [Oicana](https://oicana.com) - Tools and libraries for document templating based on Typst. Supports Node.js, Python, Java, C#, Rust, PHP, and the browser.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - PDF support in the Electron framework.
 - [Gmail To PDF](https://github.com/pixelcog/gmail-to-pdf) - Google Apps script utilities to convert emails to PDF.
 - [pdf-toolbox](https://github.com/Yuras/pdf-toolbox) - Haskell PDF processing tools.
