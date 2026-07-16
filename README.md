@@ -192,6 +192,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [backslide](https://github.com/sinedied/backslide) - Presentation creator using Markdown and converting to PDF.
 - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf) - Multi-format document reader for Windows.
 - [Markdown Resume Generator](https://github.com/there4/markdown-resume) - PHP tool to convert markdown to PDF and HTML résumés.
+- [paper2md](https://paper2md.com/) - Web tool to convert academic and technical PDFs into clean Markdown. Preserves LaTeX formulas (KaTeX/MathJax/Obsidian compatible), converts complex research tables to valid GFM Markdown, and extracts figures into a ZIP. Free for 100 pages/month.
 
 ### Misc
 
