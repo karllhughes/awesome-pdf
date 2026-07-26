@@ -209,6 +209,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Watermark removal tool in Python.
 - [questio](https://github.com/abcreativ/questio) - Forensic PDF auditor CLI for detecting edited, forged, or tampered PDFs. Runs locally, no uploads.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based PDF utilities with no signup. Includes Chat with PDF (ask questions about a PDF) and PDF to Markdown (extract structured Markdown from PDFs). Client-side processing; part of a larger suite of single-purpose web tools. Open source.
+- [ClientPDF](https://abyworkings-coder.github.io/clientpdf/) - Free, client-side tool to merge PDF files entirely in the browser via pdf-lib. No upload, no signup, no server.
 
 - [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free, privacy-first online PDF toolkit — merge, split, compress, convert, OCR, e-sign, and more. All processing is client-side; files never leave the browser.
 - [MoGuan (墨观)](https://moguanpdf.com) - Privacy-first browser PDF toolkit with 24 tools (merge, split, compress, OCR, watermark, sign, convert to Word/Excel, encrypt). The 20 classic/edit/convert tools run fully client-side via pdf.js + pdf-lib — files never uploaded, verifiable in the DevTools Network panel. Chinese-first, bilingual (zh/en), installable PWA.
