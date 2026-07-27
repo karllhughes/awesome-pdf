@@ -212,6 +212,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 - [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free, privacy-first online PDF toolkit — merge, split, compress, convert, OCR, e-sign, and more. All processing is client-side; files never leave the browser.
 - [MoGuan (墨观)](https://moguanpdf.com) - Privacy-first browser PDF toolkit with 24 tools (merge, split, compress, OCR, watermark, sign, convert to Word/Excel, encrypt). The 20 classic/edit/convert tools run fully client-side via pdf.js + pdf-lib — files never uploaded, verifiable in the DevTools Network panel. Chinese-first, bilingual (zh/en), installable PWA.
+- [gottrix](https://gottrix.app/en/compress-pdf) - Free browser-based PDF toolkit with 500+ tools total across PDF, image, audio, video, and data formats — merge, split, compress, OCR, redact, sign, convert, and more. 100% client-side via WebAssembly; files never leave the browser, works offline after first visit, 25+ languages.
 
 ## Software
 
