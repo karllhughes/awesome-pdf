@@ -187,6 +187,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Light PDF](https://lightpdf.com/) - Converter and other tools.
 - [Online PDF Converter](https://online2pdf.com/) - Turn other files into PDFs.
 - [pdf2image](https://github.com/Belval/pdf2image) - Python module to convert PDFs to images.
+- [Brainiall PDF to Markdown Action](https://github.com/fasuizu-br/brainiall-pdf-to-markdown-action) - GitHub Action that converts PDF files to Markdown through the hosted Brainiall API.
 - [CleverPDF](https://www.cleverpdf.com/) - File converter with a good selection of formats.
 - [PDFExcel](https://pdfexcel.ai) - AI-powered converter that turns any PDF — including scanned and photographed documents — into Excel, CSV, or Google Sheets without templates.
 - [CV Boilerplate](https://github.com/mrzool/cv-boilerplate) - Generate PDF résumés via LaTeX.
