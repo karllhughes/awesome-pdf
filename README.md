@@ -195,6 +195,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf) - Multi-format document reader for Windows.
 - [Markdown Resume Generator](https://github.com/there4/markdown-resume) - PHP tool to convert markdown to PDF and HTML résumés.
 - [paper2md](https://paper2md.com/) - Web tool to convert academic and technical PDFs into clean Markdown. Preserves LaTeX formulas (KaTeX/MathJax/Obsidian compatible), converts complex research tables to valid GFM Markdown, and extracts figures into a ZIP. Free for 100 pages/month.
+- [CopyMarkdown](https://copymarkdown.com/pdf-to-markdown/) - Free web tool to convert PDFs to clean Markdown. A companion [Chrome extension](https://chromewebstore.google.com/detail/bafbipicilofikmmjdeckfjghfdffdgp) converts webpages and AI chat conversations, and a separate free web tool converts GitHub repos. No signup required.
 
 ### Misc
 
