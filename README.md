@@ -45,6 +45,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [PDFKit (JavaScript)](https://pdfkit.org/) - JavaScript PDF generation library. For Node and the browser.
 - [pdfmake](http://pdfmake.org/#/) - Wrapper for PDFKit offering a few extra features.
 - [PDF-LIB](https://pdf-lib.js.org/) - Pure JavaScript PDF library.
+- [PDF Local Processor](https://github.com/privitools/pdf-local-processor) - Browser helpers for extracting native PDF text, rewriting PDFs, and converting images to PDF without uploading input bytes.
 - [PDF.js](https://mozilla.github.io/pdf.js/) - Standards-based, general-purpose viewer.
 - [ng2-pdfjs-viewer](https://github.com/intbot/ng2-pdfjs-viewer) - Angular PDF viewer component built on PDF.js (annotations, forms, signatures, search, read-aloud).
 - [jsPDF](https://github.com/MrRio/jsPDF) - Advanced, well-documented library.
