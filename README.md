@@ -100,6 +100,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [gnujpdf](http://gnujpdf.sourceforge.net/) - Create and print PDF files.
 - [jPod](https://sourceforge.net/projects/jpodlib/) - Rich PDF manipulation and rendering framework.
 - [JasperReports](https://github.com/TIBCOSoftware/jasperreports) - Java reporting library covering PDF and other formats.
+- [ph-pdf-layout](https://github.com/phax/ph-pdf-layout/) - Java library to create page-based layouts; builds on Apache PDFBox.
 
 ### Perl
 - [CAM-PDF](https://metacpan.org/release/CAM-PDF) - Read and write PDF files.
