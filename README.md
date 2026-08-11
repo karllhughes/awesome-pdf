@@ -173,6 +173,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [hushvert](https://hushvert.com) - Privacy-first browser-based PDF tools. Merge, split, rotate, and render PDFs locally via WebAssembly with no file uploads, plus a hosted API for PDF to Word and Office to PDF.
 - [OnDevicePDF](https://www.ondevicepdf.com) - Free browser-based PDF tools — merge, split, compress, edit, sign, OCR. The security tools (password protect/remove/recover, redact) run under a sealed CSP so files provably never leave the browser; live proof at [ondevicepdf.com/verify](https://www.ondevicepdf.com/verify).
 - [norito](https://norito.in/pdf/) — Free browser-based PDF tools: merge, split, compress, rotate, sign, watermark, extract text, and compare two PDFs. All client-side via pdf-lib and pdf.js, no file uploads.
+- [Druckdatei prüfen](https://druckdatei-pruefen.vercel.app) - Checks a book interior PDF against print-on-demand requirements before upload: trim size of every page, mixed page sizes, non-embedded fonts, distance from the printed area to all four paper edges reported separately for the inside (gutter) and outside edge, gutter width against page count, and the effective resolution of each image at the size it is placed. Thresholds cite Amazon KDP's published tables. Runs entirely client-side via pdf.js, no upload and no signup. German UI.
 
 ### Converters
 
