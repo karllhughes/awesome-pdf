@@ -150,6 +150,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 - [Power PDF](https://www.kofax.com/products/power-pdf) - Desktop software promising accurate file conversion.
 - [PDFSpark](https://pdfspark.dev) - Free PDF generation API.
+- [Snapdok](https://snapdok.io) - Screenshot and PDF rendering API with full-page capture and multi-page PDF output. Free tier available.
 
 ## Documentation
 
