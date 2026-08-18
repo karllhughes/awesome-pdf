@@ -222,6 +222,8 @@ If you have a question or aren’t sure if something is worth including, you can
 - [PDF Tool HQ](https://pdftoolhq.com/) - Free browser-based PDF tools to merge, split, and compress. Runs entirely client-side, so files never leave your device. No upload, no sign-up, no watermarks.
 - [PDF Tool HQ](https://pdftoolhq.com/) - Free browser-based PDF tools to merge, split, and compress. Runs entirely client-side, so files never leave your device. No upload, no sign-up, no watermarks.
 - [KeyPDF](https://keypdf.net) - An independent, client-side PDF engine for editing existing PDF text, merges, annotations and filling forms directly in the browser without uploading files.
+- [In-Tab Tools](https://intabtools.com/pdf/pdf-to-md) - Browser-based PDF tools: convert PDF to Markdown, convert Markdown to PDF, and remove PDF metadata (author, producer, etc). All processing runs client-side in the browser tab; no file is uploaded and no account is required. PDF-to-Markdown reads the PDF's existing text layer, so a scanned PDF with no text layer cannot be converted (no OCR).
+
 ## Software
 
 - [Foxit Software](https://www.foxit.com/) - Multiple PDF-related products and other resources.
