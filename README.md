@@ -133,6 +133,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 ## APIs
 
+- [Tamperlens](https://tamperlens.com/api-reference) - Document trust API returning structural tampering signals with the raw evidence (revisions appended after the original save, contradictory metadata, producer fingerprints, live text under redaction boxes, edits after a digital signature); PDF, Office and images; free tier of 50 documents/month.
 - [HTPBE](https://htpbe.tech/api) - Forensic API that detects tampered/modified PDFs from the structural layer (metadata, xref, incremental updates, signatures); works without the original file.
 - [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api) - Convert HTML to PDF files.
 - [DocRaptor](https://docraptor.com/) - HTML to PDF API.
