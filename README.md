@@ -47,6 +47,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [PDF-LIB](https://pdf-lib.js.org/) - Pure JavaScript PDF library.
 - [PDF.js](https://mozilla.github.io/pdf.js/) - Standards-based, general-purpose viewer.
 - [ng2-pdfjs-viewer](https://github.com/intbot/ng2-pdfjs-viewer) - Angular PDF viewer component built on PDF.js (annotations, forms, signatures, search, read-aloud).
+- [Inko](https://github.com/sinabin/inko-sdk) - Self-hosted PDF annotation SDK that returns review state as a separate value for host-managed storage.
 - [jsPDF](https://github.com/MrRio/jsPDF) - Advanced, well-documented library.
 - [labelmake](https://labelmake.jp/javascript-pdf-generator-library/) - Simple PDF generator.
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - Node library for controlling Chrome. Can also generate PDFs.
