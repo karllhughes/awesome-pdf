@@ -136,6 +136,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [HTPBE](https://htpbe.tech/api) - Forensic API that detects tampered/modified PDFs from the structural layer (metadata, xref, incremental updates, signatures); works without the original file.
 - [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api) - Convert HTML to PDF files.
 - [DocRaptor](https://docraptor.com/) - HTML to PDF API.
+- [rasterly](https://rasterly.dev) - HTML or URL to PDF (and PNG/JPEG/GIF/MP4) rendering API. Full-page, cheap flat pricing, plus an MCP server and x402 pay-per-call.
 - [HTPBE?](https://htpbe.tech/api) - Forensic API that detects tampered/modified PDFs from the structural layer (metadata, xref, incremental updates, signatures); works without the original file.
 - [RichText2Pdf API](https://rapidapi.com/convertapi/api/richtext2pdf/details) - Convert rich text documents to PDF.
 - [Excel2Pdf API](https://english.api.rakuten.net/convertapi/api/excel2pdf) - Convert Excel docs to PDF files.
