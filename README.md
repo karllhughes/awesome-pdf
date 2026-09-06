@@ -221,6 +221,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [PDF Tool HQ](https://pdftoolhq.com/) - Free browser-based PDF tools to merge, split, and compress. Runs entirely client-side, so files never leave your device. No upload, no sign-up, no watermarks.
 - [KeyPDF](https://keypdf.net) - An independent, client-side PDF engine for editing existing PDF text, merges, annotations and filling forms directly in the browser without uploading files.
 - [Preflighter](https://preflighter.app) - Free browser-based prepress preflight and soft-proof for print-ready PDFs: color separations (CMYK + spot/Pantone) with per-plate toggles, overprint preview, total ink coverage (TAC) heatmap with adjustable threshold, densitometer, and font/image/page-box inspection. No signup; files are processed server-side and auto-deleted after 24 hours.
+- [JustFill](https://justfill.app/solutions/fill-pdf-from-excel) - Hosted PDF form filler with reusable field layouts and Excel/CSV batch filling. Account required; free allowance and paid plans.
 
 ## Software
 
