@@ -173,6 +173,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [hushvert](https://hushvert.com) - Privacy-first browser-based PDF tools. Merge, split, rotate, and render PDFs locally via WebAssembly with no file uploads, plus a hosted API for PDF to Word and Office to PDF.
 - [OnDevicePDF](https://www.ondevicepdf.com) - Free browser-based PDF tools — merge, split, compress, edit, sign, OCR. The security tools (password protect/remove/recover, redact) run under a sealed CSP so files provably never leave the browser; live proof at [ondevicepdf.com/verify](https://www.ondevicepdf.com/verify).
 - [norito](https://norito.in/pdf/) — Free browser-based PDF tools: merge, split, compress, rotate, sign, watermark, extract text, and compare two PDFs. All client-side via pdf-lib and pdf.js, no file uploads.
+- [PDFree](https://pdfree.io) - Free browser-based PDF tools — merge, split, compress, OCR, sign, redact, protect, and convert to/from Word/Excel/PowerPoint/Markdown. 30+ tools, no signup, no file size limit. Open source (AGPLv3), client-side via pdf-lib/pdf.js WebAssembly.
 
 ### Converters
 
