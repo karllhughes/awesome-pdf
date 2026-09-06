@@ -200,6 +200,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 ### Misc
 
+- [JustFill](https://justfill.app/solutions/fill-pdf-from-excel) - Hosted PDF form filler with reusable field layouts and Excel/CSV batch filling. Account required; free allowance and paid plans.
 - [Sejda](https://www.sejda.com/) - Whole suite of PDF services, including conversion, security, manipulation, and more.
 - [Potrivit](https://www.cbinsights.com/company/potrivit-beautiful-pdf-invoices) - Design PDF invoices.
 - [PDFElement](https://pdf.wondershare.com/) - Software for editing, creating, conversion, and more.
