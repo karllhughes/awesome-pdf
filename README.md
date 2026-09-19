@@ -169,6 +169,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Rails PDF](https://github.com/igorkasyanchuk/rails_pdf) - Create PDF documents from HTML in Ruby on Rails.
 
 ## Tools
+- [PDFPilot](https://pdfpilot.net/) - Free browser-based PDF toolkit for merging, splitting, compressing, converting, OCR, editing, and more. No account is required, and PDF files are processed in the browser.
 - [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free browser-based PDF tools. Compress, merge, split, convert. All local WebAssembly processing — no file uploads.
 - [hushvert](https://hushvert.com) - Privacy-first browser-based PDF tools. Merge, split, rotate, and render PDFs locally via WebAssembly with no file uploads, plus a hosted API for PDF to Word and Office to PDF.
 - [OnDevicePDF](https://www.ondevicepdf.com) - Free browser-based PDF tools — merge, split, compress, edit, sign, OCR. The security tools (password protect/remove/recover, redact) run under a sealed CSP so files provably never leave the browser; live proof at [ondevicepdf.com/verify](https://www.ondevicepdf.com/verify).
