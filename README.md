@@ -117,6 +117,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [lopdf](https://github.com/J-F-Liu/lopdf) - Rust PDF manipulation.
 - [pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - Fast Rust PDF library with text and image extraction, markdown conversion, and bindings for many languages.
 - [printpdf](https://github.com/fschutt/printpdf) - Create printable PDF documents.
+- [Rubrol](https://github.com/maxcomperatore/rubrol) - High-performance Typst-based PDF engine and HTTP sidecar for sub-millisecond document and invoice generation.
 
 ### Misc/Multi-language
 
