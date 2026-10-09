@@ -204,6 +204,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [paper2md](https://paper2md.com/) - Web tool to convert academic and technical PDFs into clean Markdown. Preserves LaTeX formulas (KaTeX/MathJax/Obsidian compatible), converts complex research tables to valid GFM Markdown, and extracts figures into a ZIP. Free for 100 pages/month.
 - [CopyMarkdown](https://copymarkdown.com/pdf-to-markdown/) - Free web tool to convert PDFs to clean Markdown. A companion [Chrome extension](https://chromewebstore.google.com/detail/bafbipicilofikmmjdeckfjghfdffdgp) converts webpages and AI chat conversations, and a separate free web tool converts GitHub repos. No signup required.
 - [file2markdown](https://www.file2markdown.ai/convert/pdf-to-markdown) - Browser-based PDF/DOCX/PPTX/XLSX/HTML/EPUB/URL to Markdown converter that keeps headings and tables; AI OCR for scanned PDFs. Free tier, no signup; MCP server for AI assistants.
+- [TypeFire Markdown to PDF](https://typefire.ai/markdown-to-pdf) - Free browser tool that turns Markdown into a PDF: write or open a .md file, see it formatted as you type, and print it to PDF. No upload and no signup.
 
 ### Misc
 
