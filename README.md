@@ -212,6 +212,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 ### Misc
 
+- [FolioCove](https://mehbul.github.io/FolioCove/) - Free, MIT-licensed browser PDF workspace for merging, extracting and organizing pages, with on-device processing and no account required.
 - [Sejda](https://www.sejda.com/) - Whole suite of PDF services, including conversion, security, manipulation, and more.
 - [Potrivit](https://www.cbinsights.com/company/potrivit-beautiful-pdf-invoices) - Design PDF invoices.
 - [PDFElement](https://pdf.wondershare.com/) - Software for editing, creating, conversion, and more.
