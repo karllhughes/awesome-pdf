@@ -56,6 +56,8 @@ If you have a question or aren’t sure if something is worth including, you can
 - [PDFObject](https://pdfobject.com/) - Embed PDFs in HTML.
 - [pdf2json](https://www.npmjs.com/package/pdf2json) - Node module to convert PDF to JSON.
 - [boxpdf](https://github.com/earonesty/boxpdf) - Memory optimized, streaming, flexbox JS PDF library.
+- [PDFBlack](https://pdf-black.com) - Privacy-first, client-side PDF tool suite (merge, split, Bates numbering, compression) running 100% in-browser via WebAssembly & Web Workers without server uploads. ([Source](https://github.com/nereoab/pdf-local-app))
+
 
 ### Ruby
 - [HexaPDF](https://github.com/gettalong/hexapdf) - Ruby library to create and manipulate PDFs.
