@@ -228,6 +228,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [KeyPDF](https://keypdf.net) - An independent, client-side PDF engine for editing existing PDF text, merges, annotations and filling forms directly in the browser without uploading files.
 - [Preflighter](https://preflighter.app) - Free browser-based prepress preflight and soft-proof for print-ready PDFs: color separations (CMYK + spot/Pantone) with per-plate toggles, overprint preview, total ink coverage (TAC) heatmap with adjustable threshold, densitometer, and font/image/page-box inspection. No signup; files are processed server-side and auto-deleted after 24 hours.
 - [PDFWatermark](https://pdfwatermark.top/) - Add text or PNG/JPG watermarks to PDF files locally in the browser. No uploads or account required.
+- [In-Tab Tools](https://intabtools.com/pdf/pdf-to-md) - Browser-based PDF tools: convert PDF to Markdown, convert Markdown to PDF, and remove PDF metadata (author, producer, etc). All processing runs client-side in the browser tab; no file is uploaded and no account is required. PDF-to-Markdown reads the PDF's existing text layer, so a scanned PDF with no text layer cannot be converted (no OCR).
 
 ## Software
 
