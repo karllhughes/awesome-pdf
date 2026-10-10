@@ -239,6 +239,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [testpageforprinter](https://testpageforprinter.com) - Free printer test sheets as vector PDFs (DeviceCMYK) in Letter and A4: color, CMYK, black and white, nozzle check, alignment, scale check, photo and duplex. No signup.
 - [PDFWatermark](https://pdfwatermark.top/) - Add text or PNG/JPG watermarks to PDF files locally in the browser. No uploads or account required.
 - [In-Tab Tools](https://intabtools.com/pdf/pdf-to-md) - Browser-based PDF tools: convert PDF to Markdown, convert Markdown to PDF, and remove PDF metadata (author, producer, etc). All processing runs client-side in the browser tab; no file is uploaded and no account is required. PDF-to-Markdown reads the PDF's existing text layer, so a scanned PDF with no text layer cannot be converted (no OCR).
+- [Drible](https://drible.co/pdf) - Free PDF tools (merge, split, rotate, sign, edit with true redaction that removes the underlying text, watermark, password protect, page numbers) that run client-side with pdf-lib and PDF.js. The Office conversions and Ghostscript compression run on a server and are labelled as such. No signup.
 
 ## Software
 
