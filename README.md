@@ -185,6 +185,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [No Fuss PDF](https://nofusspdf.com/) - Focused browser-local tools for filling and signing, merging, splitting, and converting PDFs and images with no upload, account, payment, or watermark.
 - [norito](https://norito.in/pdf/) — Free browser-based PDF tools: merge, split, compress, rotate, sign, watermark, extract text, and compare two PDFs. All client-side via pdf-lib and pdf.js, no file uploads.
 - [Druckdatei prüfen](https://druckdatei-pruefen.vercel.app) - Checks a book interior PDF against print-on-demand requirements before upload: trim size of every page, mixed page sizes, non-embedded fonts, distance from the printed area to all four paper edges reported separately for the inside (gutter) and outside edge, gutter width against page count, and the effective resolution of each image at the size it is placed. Thresholds cite Amazon KDP's published tables. Runs entirely client-side via pdf.js, no upload and no signup. German UI.
+- [Filewhisk](https://filewhisk.com/pdf-tools/) - Free browser-based PDF tools: merge with per-file page ranges and bookmarks, split by page, range or bookmark (or cut scanned spreads in half), delete pages with blank page detection, JPG to PDF and PDF to JPG. Client-side via pdf-lib and PDF.js; no uploads or signup.
 
 ### Converters
 
