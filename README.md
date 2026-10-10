@@ -239,6 +239,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [testpageforprinter](https://testpageforprinter.com) - Free printer test sheets as vector PDFs (DeviceCMYK) in Letter and A4: color, CMYK, black and white, nozzle check, alignment, scale check, photo and duplex. No signup.
 - [PDFWatermark](https://pdfwatermark.top/) - Add text or PNG/JPG watermarks to PDF files locally in the browser. No uploads or account required.
 - [In-Tab Tools](https://intabtools.com/pdf/pdf-to-md) - Browser-based PDF tools: convert PDF to Markdown, convert Markdown to PDF, and remove PDF metadata (author, producer, etc). All processing runs client-side in the browser tab; no file is uploaded and no account is required. PDF-to-Markdown reads the PDF's existing text layer, so a scanned PDF with no text layer cannot be converted (no OCR).
+- [JustFill](https://justfill.app/solutions/fill-pdf-from-excel) - Hosted PDF form filler with reusable field layouts and Excel/CSV batch filling. Account required; free allowance and paid plans.
 
 ## Software
 
