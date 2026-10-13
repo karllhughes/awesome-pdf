@@ -214,6 +214,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [file2markdown](https://www.file2markdown.ai/convert/pdf-to-markdown) - Browser-based PDF/DOCX/PPTX/XLSX/HTML/EPUB/URL to Markdown converter that keeps headings and tables; AI OCR for scanned PDFs. Free tier, no signup; MCP server for AI assistants.
 - [BankStatement2PDF](https://bankstatement2pdf.com/) - Free web converter for text-based PDF bank statements to Excel, CSV, QBO, OFX and QIF, with a transaction preview before download. No signup; scanned PDFs are not supported.
 - [Convert: Web to PDF](https://www.actuallyusefulextensions.com/tools/convert-web-to-pdf/) - Free Chrome extension that saves any webpage as a PDF, with ads removed and links kept clickable. Conversion runs locally in the browser; works on logged-in pages. No signup required.
+- [SmallPDF.us](https://smallpdf.us/) - Free online PDF and image tools: compress, merge, split, convert to and from Word, Excel, PowerPoint and JPG, OCR, redact and unlock. Works without an account; files are processed on the server.
 
 ### Misc
 
