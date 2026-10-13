@@ -206,7 +206,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [CleverPDF](https://www.cleverpdf.com/) - File converter with a good selection of formats.
 - [PDFExcel](https://pdfexcel.ai) - AI-powered converter that turns any PDF — including scanned and photographed documents — into Excel, CSV, or Google Sheets without templates.
 - [CV Boilerplate](https://github.com/mrzool/cv-boilerplate) - Generate PDF résumés via LaTeX.
-- [converterwordparapdf.com](https://converterwordparapdf.com) - Free online Word to PDF converter in Brazilian Portuguese. Converts .doc and .docx files to PDF instantly with no sign-up, no watermark, and no file size limits.
+- [converterwordparapdf.com](https://converterwordparapdf.com) - Conversor gratuito de Word para PDF online em português brasileiro. Converte arquivos .doc e .docx para PDF instantaneamente, sem cadastro, sem marca d'água e sem limite de tamanho de arquivo.
 - [backslide](https://github.com/sinedied/backslide) - Presentation creator using Markdown and converting to PDF.
 - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf) - Multi-format document reader for Windows.
 - [Markdown Resume Generator](https://github.com/there4/markdown-resume) - PHP tool to convert markdown to PDF and HTML résumés.
