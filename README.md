@@ -144,6 +144,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api) - Convert HTML to PDF files.
 - [DocRaptor](https://docraptor.com/) - HTML to PDF API.
 - [PolyDoc](https://polydoc.tech/) - HTML to PDF and screenshots, with PDF/A and tagged PDF/UA output and an optional veraPDF check that fails the request instead of returning a non-conforming file.
+- [CurlShot](https://curlshot.com) - URL, HTML or Markdown to PDF API rendered in headless Chromium, with paper sizes, margins and print CSS; the same endpoint also returns PNG, JPEG or WebP screenshots. Free tier of 100 renders/month.
 - [HTPBE?](https://htpbe.tech/api) - Forensic API that detects tampered/modified PDFs from the structural layer (metadata, xref, incremental updates, signatures); works without the original file.
 - [RichText2Pdf API](https://rapidapi.com/convertapi/api/richtext2pdf/details) - Convert rich text documents to PDF.
 - [Excel2Pdf API](https://english.api.rakuten.net/convertapi/api/excel2pdf) - Convert Excel docs to PDF files.
