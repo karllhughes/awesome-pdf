@@ -189,6 +189,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 ### Converters
 
+- [Doc2X](https://doc2x.noedgeai.com/) - Cloud service that converts PDFs, scans and images to editable Word, Markdown or LaTeX, including formulas and tables. Web trial and some free tools; memberships/credits for other usage and separately billed API.
 - [Refentra Images to PDF](https://refentra.com/tools/images-to-pdf/) - Combine JPEG, PNG, and WebP images into one PDF in the browser. Reorder pages and choose A4, Letter, or image-sized pages; no upload or account required.
 - [pdfcrowd](https://pdfcrowd.com/) - Automatically convert web pages to PDF. Also includes an API.
 - [HTML to PDF](https://html2pdf.com/) - Free and automatic web to PDF converter.
