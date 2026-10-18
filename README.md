@@ -245,6 +245,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [JustFill](https://justfill.app/solutions/fill-pdf-from-excel) - Hosted PDF form filler with reusable field layouts and Excel/CSV batch filling. Account required; free allowance and paid plans.
 - [PixelTools](https://pixeltools.io/) - Free browser-based PDF toolkit — merge, split, compress, convert, rotate, and watermark. 100% client-side via WebAssembly, no signup.
 
+
 ## Software
 
 - [Foxit Software](https://www.foxit.com/) - Multiple PDF-related products and other resources.
