@@ -186,6 +186,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [norito](https://norito.in/pdf/) — Free browser-based PDF tools: merge, split, compress, rotate, sign, watermark, extract text, and compare two PDFs. All client-side via pdf-lib and pdf.js, no file uploads.
 - [Druckdatei prüfen](https://druckdatei-pruefen.vercel.app) - Checks a book interior PDF against print-on-demand requirements before upload: trim size of every page, mixed page sizes, non-embedded fonts, distance from the printed area to all four paper edges reported separately for the inside (gutter) and outside edge, gutter width against page count, and the effective resolution of each image at the size it is placed. Thresholds cite Amazon KDP's published tables. Runs entirely client-side via pdf.js, no upload and no signup. German UI.
 - [Filewhisk](https://filewhisk.com/pdf-tools/) - Free browser-based PDF tools: merge with per-file page ranges and bookmarks, split by page, range or bookmark (or cut scanned spreads in half), delete pages with blank page detection, JPG to PDF and PDF to JPG. Client-side via pdf-lib and PDF.js; no uploads or signup.
+- [PDFLines](https://www.pdflines.com/) - Free online PDF tools to merge, split, compress, rotate, and convert to and from Word, Excel, PowerPoint, JPG, and PNG. No account or watermarks. Small JPG and PNG to PDF run in the browser; other tools upload files that are deleted about one hour after the job.
 
 ### Converters
 
