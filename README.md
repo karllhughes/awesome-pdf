@@ -196,6 +196,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [pdfkits.app](https://pdfkits.app) - Online toolkit to merge, split, compress, convert and manipulate PDF files.
 - [Webpage to PDF](https://webpagetopdf.com/) - Paste in a URL and get a PDF file.
 - [W2P](https://www.web2pdfconvert.com/) - Another web to PDF converter.
+- [Xargaar PDF Toolkit](https://statement-converter-c41.pages.dev/pdf-toolkit/) - Merge, split, compress, sign, redact and OCR PDFs entirely in the browser; no upload or account.
 - [PDFmyURL](https://pdfmyurl.com/) - Accurate, feature-rich web to PDF converter.
 - [Docs.zone](https://docs.zone/) - Combine and convert PDF files.
 - [Convert PDF Online](https://www.pdfconvertonline.com/) - Convert to and from multiple formats, and several other features.
