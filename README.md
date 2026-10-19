@@ -155,6 +155,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Actual Reports](https://actualreports.com/) - API for transactional PDF generation.
 - [edocr](https://www.edocr.com/v/bypjgeml/edocr/edocr-public-api-reference) - Use documents to generate leads.
 - [WebSequenceDiagrams](https://www.websequencediagrams.com/embedding.html) - Generate URL diagrams, in PDF and other formats.
+- [thirds.ai](https://thirds.ai/html-to-pdf?utm_source=github&utm_medium=listing&utm_campaign=awesome-pdf) - HTML to PDF and image API with page numbers, headers and footers, plus saved designs filled from JSON or a CSV; free tier of 50 files a month.
 
 - [Power PDF](https://www.kofax.com/products/power-pdf) - Desktop software promising accurate file conversion.
 - [PDFSpark](https://pdfspark.dev) - Free PDF generation API.
