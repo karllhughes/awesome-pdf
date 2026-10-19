@@ -215,6 +215,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [BankStatement2PDF](https://bankstatement2pdf.com/) - Free web converter for text-based PDF bank statements to Excel, CSV, QBO, OFX and QIF, with a transaction preview before download. No signup; scanned PDFs are not supported.
 - [Convert: Web to PDF](https://www.actuallyusefulextensions.com/tools/convert-web-to-pdf/) - Free Chrome extension that saves any webpage as a PDF, with ads removed and links kept clickable. Conversion runs locally in the browser; works on logged-in pages. No signup required.
 - [pdfmux](https://github.com/NameetP/pdfmux) - Open-source Python PDF-to-Markdown orchestrator. Routes each page to the best backend (PyMuPDF, Docling, RapidOCR, or Gemini Flash) and attaches a per-page confidence score so low-trust pages can be flagged. MIT licensed, `pip install pdfmux`; also ships an MCP server for AI agent use.
+- [StatementXL](https://bankstatementconverter.xyz/) - Web converter for text-based bank statement PDFs to Excel, CSV, TSV, JSON, Markdown or HTML. Every extracted row is labeled OK, DISCREPANCY or UNVERIFIABLE before download. Open source (MIT).
 
 ### Misc
 
