@@ -251,6 +251,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat.html) - Tools from the original creators of the PDF format.
 - [XpdfReader](https://www.xpdfreader.com/) - Free PDF viewer and toolkit.
 - [Apache FOP](https://xmlgraphics.apache.org/fop/) - Formatting objects processor that supports PDFs.
+- [Glim](https://github.com/NeoPanic/Glim) - MIT-licensed macOS file viewer with read-only PDF previews alongside Markdown, source code and other documents.
 
 ## Guides and Tutorials
 
