@@ -244,6 +244,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [In-Tab Tools](https://intabtools.com/pdf/pdf-to-md) - Browser-based PDF tools: convert PDF to Markdown, convert Markdown to PDF, and remove PDF metadata (author, producer, etc). All processing runs client-side in the browser tab; no file is uploaded and no account is required. PDF-to-Markdown reads the PDF's existing text layer, so a scanned PDF with no text layer cannot be converted (no OCR).
 - [JustFill](https://justfill.app/solutions/fill-pdf-from-excel) - Hosted PDF form filler with reusable field layouts and Excel/CSV batch filling. Account required; free allowance and paid plans.
 - [PixelTools](https://pixeltools.io/) - Free browser-based PDF toolkit — merge, split, compress, convert, rotate, and watermark. 100% client-side via WebAssembly, no signup.
+- [ChuyenPDF](https://chuyenpdf.vn/) - Vietnamese-language suite of 20 online PDF tools; 19 run client-side in the browser, so files never leave the device, and no account is needed. OCR reads Vietnamese text through an encrypted connection. Each tool and info page also serves a same-URL `.md` version, alongside `llms.txt` and `llms-full.txt`.
 
 ## Software
 
