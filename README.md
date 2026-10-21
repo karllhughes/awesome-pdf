@@ -250,6 +250,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Foxit Software](https://www.foxit.com/) - Multiple PDF-related products and other resources.
 - [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat.html) - Tools from the original creators of the PDF format.
 - [XpdfReader](https://www.xpdfreader.com/) - Free PDF viewer and toolkit.
+- [Helicon](https://apps.apple.com/app/id6811677202?pt=125973633&ct=gh-pdf) - Free PDF and EPUB reader for iPad and iPhone with margin notes pinned beside the line and Markdown export.
 - [Apache FOP](https://xmlgraphics.apache.org/fop/) - Formatting objects processor that supports PDFs.
 
 ## Guides and Tutorials
