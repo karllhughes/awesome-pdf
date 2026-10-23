@@ -189,6 +189,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 ### Converters
 
+- [Mail Archive PDF](https://mailtopdf.top/en?utm_source=github&utm_medium=referral&utm_campaign=competitor_backlinks_20261023&utm_content=awesome_pdf) - Browser-based EML, MBOX, and Gmail Takeout ZIP to PDF converter with local file processing. Paid annual subscription.
 - [Refentra Images to PDF](https://refentra.com/tools/images-to-pdf/) - Combine JPEG, PNG, and WebP images into one PDF in the browser. Reorder pages and choose A4, Letter, or image-sized pages; no upload or account required.
 - [pdfcrowd](https://pdfcrowd.com/) - Automatically convert web pages to PDF. Also includes an API.
 - [HTML to PDF](https://html2pdf.com/) - Free and automatic web to PDF converter.
