@@ -123,6 +123,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 ### Misc/Multi-language
 
+- [Open Reports](https://github.com/varaprasadreddy9676/open-reports) - MIT-licensed, self-hosted visual designer and JSON-based reporting engine for application-generated paginated documents. Supports PDF, DOCX, XLSX, HTML, CSV, ZPL, and ESC/POS output. JRXML import is partial and requires review.
 - [Oicana](https://oicana.com) - Tools and libraries for document templating based on Typst. Supports Node.js, Python, Java, C#, Rust, PHP, and the browser.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - PDF support in the Electron framework.
 - [Gmail To PDF](https://github.com/pixelcog/gmail-to-pdf) - Google Apps script utilities to convert emails to PDF.
