@@ -159,6 +159,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Power PDF](https://www.kofax.com/products/power-pdf) - Desktop software promising accurate file conversion.
 - [PDFSpark](https://pdfspark.dev) - Free PDF generation API.
 - [Tanod PDF API](https://tanod.dev/learn/pdf-merge-api.html) - Pay-per-call PDF API and MCP tools: merge, split, compress, OCR, form fill, table extraction, PDF to Word, Office to PDF. No account; free daily tier, then per-call USDC payment over x402.
+- [APIVerve](https://apiverve.com/) - REST APIs to convert HTML, Markdown, Office documents and live web pages to PDF, extract text from PDFs, render PDF pages to images, merge PDFs and add page numbers. Free plan of 200 credits a month.
 
 ## Documentation
 
