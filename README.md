@@ -57,6 +57,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [pdf2json](https://www.npmjs.com/package/pdf2json) - Node module to convert PDF to JSON.
 - [boxpdf](https://github.com/earonesty/boxpdf) - Memory optimized, streaming, flexbox JS PDF library.
 - [PDFBlack](https://pdf-black.com) - Privacy-first, client-side PDF tool suite (merge, split, Bates numbering, compression) running 100% in-browser via WebAssembly & Web Workers without server uploads. ([Source](https://github.com/nereoab/pdf-local-app))
+- [sealed-pdf-verify](https://github.com/minutenotary/sealed-pdf-verify) - Offline verifier for PDFs sealed with a detached ECDSA P-256 signature, an RFC 3161 timestamp and a hash-chain ledger. Library, CLI and browser page.
 
 
 ### Ruby
