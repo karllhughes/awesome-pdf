@@ -130,6 +130,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [clj-pdf](https://github.com/clj-pdf/clj-pdf) - Clojure PDF generation.
 - [sPDF](https://github.com/cloudify/sPDF) - Scala library to produce PDFs from web pages.
 - [Fullbleed](https://github.com/fullbleed-engine/fullbleed-official) - Static HTML/CSS to PDF in Python, Rust, Node.js, C#, and the browser, with explicit fonts and PNG previews.
+- [PDFjet](https://github.com/edragoev1/pdfjet) - Library for creating PDFs in Java, C#, Go and Swift, with tables, charts, SVG and PDF/A and PDF/UA output.
 
 ## SDKs
     
