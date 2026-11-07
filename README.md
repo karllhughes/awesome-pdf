@@ -96,6 +96,8 @@ If you have a question or aren’t sure if something is worth including, you can
 - [VersyPDF](https://github.com/sybrexsys/VersyPDF) - C/C++ library including support for several formats and compression types.
 - [PDF-Writer](https://github.com/galkahana/PDF-Writer) - Fast and free C++ PDF handling library.
 - [LibHaru](https://products.fileformat.com/pdf/cpp/libharu) - C++ library to generate and embed images in PDFs.
+- [fynepdf-pdfa](https://github.com/fynepdf/fynepdf-pdfa) - C++17 library and command line that turns PDFs into valid PDF/A by fixing them in place, without Ghostscript.
+- [fynepdf-grayscale](https://github.com/fynepdf/fynepdf-grayscale) - C++17 library and command line that makes PDFs grayscale in place, keeping text, links and form fields.
 
 ### Java
 - [Apache PDFBox](https://pdfbox.apache.org/) - PDF manipulation and command line utilities.
