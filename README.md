@@ -187,6 +187,8 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Druckdatei prüfen](https://druckdatei-pruefen.vercel.app) - Checks a book interior PDF against print-on-demand requirements before upload: trim size of every page, mixed page sizes, non-embedded fonts, distance from the printed area to all four paper edges reported separately for the inside (gutter) and outside edge, gutter width against page count, and the effective resolution of each image at the size it is placed. Thresholds cite Amazon KDP's published tables. Runs entirely client-side via pdf.js, no upload and no signup. German UI.
 - [Filewhisk](https://filewhisk.com/pdf-tools/) - Free browser-based PDF tools: merge with per-file page ranges and bookmarks, split by page, range or bookmark (or cut scanned spreads in half), delete pages with blank page detection, JPG to PDF and PDF to JPG. Client-side via pdf-lib and PDF.js; no uploads or signup.
 
+- [OpenP7M](https://openp7m.com/en/) - Reads PDFs inside P7M containers and supported Italian FatturaPA FPR12/FPA12 XML invoices in the browser; free full previews are watermarked, single-file export costs €1.99, batch processing requires an account, and local integrity checks do not validate certificate trust, revocation, or legal signature validity.
+
 ### Converters
 
 - [Refentra Images to PDF](https://refentra.com/tools/images-to-pdf/) - Combine JPEG, PNG, and WebP images into one PDF in the browser. Reorder pages and choose A4, Letter, or image-sized pages; no upload or account required.
