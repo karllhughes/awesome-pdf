@@ -131,6 +131,9 @@ If you have a question or aren’t sure if something is worth including, you can
 - [sPDF](https://github.com/cloudify/sPDF) - Scala library to produce PDFs from web pages.
 - [Fullbleed](https://github.com/fullbleed-engine/fullbleed-official) - Static HTML/CSS to PDF in Python, Rust, Node.js, C#, and the browser, with explicit fonts and PNG previews.
 
+- [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) - Free Python CLI/MCP server that extracts tables from text PDFs into CSV.
+- [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - Free Python CLI/MCP server that converts text PDFs and HTML into clean Markdown tables.
+
 ## SDKs
     
 - [Foxit SDK](https://developers.foxit.com/) - Official SDK, includes core API for seven platforms.
