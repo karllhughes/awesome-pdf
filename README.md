@@ -220,6 +220,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 - [FolioCove](https://mehbul.github.io/FolioCove/) - Free, MIT-licensed browser PDF workspace for merging, extracting and organizing pages, with on-device processing and no account required.
 - [Sejda](https://www.sejda.com/) - Whole suite of PDF services, including conversion, security, manipulation, and more.
+- [PDFHANA](https://pdfhana.com) - Free Korean PDF and image toolkit (merge, split, compress, OCR, PDF to and from HWP/Word, sign, redact) that runs in the browser with no uploads or account.
 - [Potrivit](https://www.cbinsights.com/company/potrivit-beautiful-pdf-invoices) - Design PDF invoices.
 - [PDFElement](https://pdf.wondershare.com/) - Software for editing, creating, conversion, and more.
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF files interactively in HTML.
