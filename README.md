@@ -244,6 +244,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [In-Tab Tools](https://intabtools.com/pdf/pdf-to-md) - Browser-based PDF tools: convert PDF to Markdown, convert Markdown to PDF, and remove PDF metadata (author, producer, etc). All processing runs client-side in the browser tab; no file is uploaded and no account is required. PDF-to-Markdown reads the PDF's existing text layer, so a scanned PDF with no text layer cannot be converted (no OCR).
 - [JustFill](https://justfill.app/solutions/fill-pdf-from-excel) - Hosted PDF form filler with reusable field layouts and Excel/CSV batch filling. Account required; free allowance and paid plans.
 - [PixelTools](https://pixeltools.io/) - Free browser-based PDF toolkit — merge, split, compress, convert, rotate, and watermark. 100% client-side via WebAssembly, no signup.
+- [Brodlin PDF](https://brodlin.com/) - Free browser-based PDF editor: edit, sign, add text and stamps, merge and compress PDFs. Local files are processed in the browser, no account required. Extensions for Chrome, Edge and Firefox.- 
 
 ## Software
 
