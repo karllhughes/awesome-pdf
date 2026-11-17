@@ -251,6 +251,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat.html) - Tools from the original creators of the PDF format.
 - [XpdfReader](https://www.xpdfreader.com/) - Free PDF viewer and toolkit.
 - [Apache FOP](https://xmlgraphics.apache.org/fop/) - Formatting objects processor that supports PDFs.
+- [PDFCompress](https://github.com/SharpGithub0310/pdfcompress-releases) - Windows 10/11 desktop app that compresses PDFs and photos (JPG/PNG/WebP) offline in batches, without uploading files. 14-day free trial, then paid.
 
 ## Guides and Tutorials
 
