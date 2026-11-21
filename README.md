@@ -218,6 +218,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 ### Misc
 
+- [PDF Fan — Inserir páginas em PDF](https://pdf.fan/pt-br/inserir-paginas-pdf/) - Free Brazilian Portuguese tool for inserting selected pages from another PDF at a chosen position. The original files are processed in the browser.
 - [FolioCove](https://mehbul.github.io/FolioCove/) - Free, MIT-licensed browser PDF workspace for merging, extracting and organizing pages, with on-device processing and no account required.
 - [Sejda](https://www.sejda.com/) - Whole suite of PDF services, including conversion, security, manipulation, and more.
 - [Potrivit](https://www.cbinsights.com/company/potrivit-beautiful-pdf-invoices) - Design PDF invoices.
