@@ -159,6 +159,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Power PDF](https://www.kofax.com/products/power-pdf) - Desktop software promising accurate file conversion.
 - [PDFSpark](https://pdfspark.dev) - Free PDF generation API.
 - [Tanod PDF API](https://tanod.dev/learn/pdf-merge-api.html) - Pay-per-call PDF API and MCP tools: merge, split, compress, OCR, form fill, table extraction, PDF to Word, Office to PDF. No account; free daily tier, then per-call USDC payment over x402.
+- [PDFGate](https://pdfgate.com/api) - HTML to PDF API with PDF form filling, e-signatures, compression, watermarking and encryption. Free plan with 20 conversions a month.
 
 ## Documentation
 
