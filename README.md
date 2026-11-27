@@ -1,0 +1,287 @@
+# Awesome PDF
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+This is a list of resources for programmers and others working with portable document format (PDF) files.
+
+## Contributing
+
+Please help improve this list. Submit a pull request if you spot a link or description that needs updating. New links are welcome, too!
+
+If you have a question or aren’t sure if something is worth including, you can use the issues to open a discussion.
+
+## Table of Contents
+
+- Awesome PDF
+	- [Libraries](#Libraries)
+		- [JavaScript](#JavaScript)
+		- [Ruby](#Ruby)
+		- [PHP](#PHP)
+		- [Python](#Python)
+		- [Go](#Go)
+		- [C/C++](#C/C++)
+		- [Java](#Java)
+		- [Perl](#Perl)
+		- [Swift](#Swift)
+		- [Rust](#Rust)
+		- [Misc/Multi-language](#MiscMulti-language)
+	- [SDKs](#SDKs)
+	- [APIs](#APIs)
+	- [Documentation](#Documentation)
+	- [WordPress Plugins](#WordPress-Plugins)
+	- [Add-ons/Components](#Add-onsComponents)
+	- [Tools](#Tools)
+		- [Converters](#Converters)
+		- [Misc](#Misc)
+	- [Services](#Services)
+	- [Guides and Tutorials](#Guides-and-Tutorials)
+	- [Videos](#Videos)
+	- [Credits/Other lists](#CreditsOther-lists)
+	- [License](#License)
+
+## Libraries
+
+### JavaScript
+
+- [PDFKit (JavaScript)](https://pdfkit.org/) - JavaScript PDF generation library. For Node and the browser.
+- [pdfmake](http://pdfmake.org/#/) - Wrapper for PDFKit offering a few extra features.
+- [PDF-LIB](https://pdf-lib.js.org/) - Pure JavaScript PDF library.
+- [PDF Local Processor](https://github.com/privitools/pdf-local-processor) - Browser helpers for extracting native PDF text, rewriting PDFs, and converting images to PDF without uploading input bytes.
+- [PDF.js](https://mozilla.github.io/pdf.js/) - Standards-based, general-purpose viewer.
+- [ng2-pdfjs-viewer](https://github.com/intbot/ng2-pdfjs-viewer) - Angular PDF viewer component built on PDF.js (annotations, forms, signatures, search, read-aloud).
+- [jsPDF](https://github.com/MrRio/jsPDF) - Advanced, well-documented library.
+- [labelmake](https://labelmake.jp/javascript-pdf-generator-library/) - Simple PDF generator.
+- [Puppeteer](https://github.com/puppeteer/puppeteer) - Node library for controlling Chrome. Can also generate PDFs.
+- [React-pdf](https://react-pdf.org/) - React renderer for creating PDF files.
+- [dom-to-pdf](https://github.com/ovvn/dom-to-pdf) - Generate printable PDFs from DOM nodes.
+- [PDFObject](https://pdfobject.com/) - Embed PDFs in HTML.
+- [pdf2json](https://www.npmjs.com/package/pdf2json) - Node module to convert PDF to JSON.
+- [boxpdf](https://github.com/earonesty/boxpdf) - Memory optimized, streaming, flexbox JS PDF library.
+- [PDFBlack](https://pdf-black.com) - Privacy-first, client-side PDF tool suite (merge, split, Bates numbering, compression) running 100% in-browser via WebAssembly & Web Workers without server uploads. ([Source](https://github.com/nereoab/pdf-local-app))
+
+
+### Ruby
+- [HexaPDF](https://github.com/gettalong/hexapdf) - Ruby library to create and manipulate PDFs.
+- [Prawn](https://github.com/prawnpdf/prawn) - Ruby PDF generator including vector drawing and image embedding.
+- [Wicked PDF](https://www.ruby-toolbox.com/projects/wicked_pdf) - Ruby on Rails PDF generation.
+- [CombinePDF](https://www.ruby-toolbox.com/projects/combine_pdf) - Combine, parse, number, and watermark PDFs in Ruby.
+- [Grim](https://github.com/jonmagic/grim) - Gem to extract (reap) PDF text and images.
+
+### PHP
+- [TCPDF](https://tcpdf.org/) - Generate PDFs in PHP.
+- [mPDF](https://mpdf.github.iohttps://tcpdf.org/) - Generate PDFs from UTF-8 encoded HTML.
+- [FPDF](http://www.fpdf.org/) - Create PDFs in pure PHP.
+- [dompdf](https://dompdf.github.io/) - HTML to PDF converter.
+- [Snappy](https://github.com/KnpLabs/snappy) - Generate PDFs, thumbnails, and snapshots from websites.
+- [PHPWord](https://github.com/PHPOffice/PHPWord) - Library for reading and writing various document types.
+- [PdfParser](https://github.com/smalot/pdfparser) - Data extraction library.
+
+### Python
+- [pdfrw](https://pypi.org/project/pdfrw/) - Python library for reading and writing PDFs.
+- [pikepdf](https://pikepdf.readthedocs.io/en/latest/) - Creation, manipulation, and repair of PDFs.
+- [PDFMiner](https://euske.github.io/pdfminer/index.html) - Extract information from PDF documents.
+- [PyPDF4](https://github.com/claird/PyPDF4) - Various operations, such as split, merge, and transform PDF data.
+- [Slate](https://github.com/timClicks/slate) - Wrapper for PDFMiner. Makes simple things easier.
+- [PDFQuery](https://github.com/jcushman/pdfquery) - Scrape PDF files using JQuery or XPath syntax.
+- [xpdf-python](https://pypi.org/project/xpdf-python/) - Python wrapper for XPDF.
+- [PDF Reports](https://edinburgh-genome-foundry.github.io/pdf_reports/index.html) - Generate reports from HTML or Pug templates.
+
+### Go
+- [gopdf](https://github.com/signintech/gopdf) - Generate PDFs in Go.
+- [pdfcpu](https://github.com/pdfcpu/pdfcpu) - Go library that can handle batch processing and encryption.
+- [UniDoc/UniPDF](https://www.unidoc.io/) - Commercial Go library.
+- [gofpdf](https://pkg.go.dev/github.com/jung-kurt/gofpdf) - High level support for text, drawing, and images.
+- [goreport](https://github.com/mikeshimura/goreport) - PDF report generator.
+
+### C/C++
+- [VersyPDF](https://github.com/sybrexsys/VersyPDF) - C/C++ library including support for several formats and compression types.
+- [PDF-Writer](https://github.com/galkahana/PDF-Writer) - Fast and free C++ PDF handling library.
+- [LibHaru](https://products.fileformat.com/pdf/cpp/libharu) - C++ library to generate and embed images in PDFs.
+
+### Java
+- [Apache PDFBox](https://pdfbox.apache.org/) - PDF manipulation and command line utilities.
+- [OpenPDF](https://github.com/LibrePDF/OpenPDF) - Open-source successor of iText.
+- [gnujpdf](http://gnujpdf.sourceforge.net/) - Create and print PDF files.
+- [jPod](https://sourceforge.net/projects/jpodlib/) - Rich PDF manipulation and rendering framework.
+- [JasperReports](https://github.com/TIBCOSoftware/jasperreports) - Java reporting library covering PDF and other formats.
+- [ph-pdf-layout](https://github.com/phax/ph-pdf-layout/) - Java library to create page-based layouts; builds on Apache PDFBox.
+
+### Perl
+- [CAM-PDF](https://metacpan.org/release/CAM-PDF) - Read and write PDF files.
+- [PDF](https://metacpan.org/pod/PDF) - Perl PDF library. Check the sidebar for downloads, not the GeoCities link!
+- [PDF-API2](https://metacpan.org/release/PDF-API2) - Create and manipulate PDF files.
+
+### Swift
+
+ - [Apple PDFKit](https://developer.apple.com/documentation/pdfkit) - Framework for Swift and Objective-C.
+- [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - Simple PDF generator.
+
+### Rust
+- [lopdf](https://github.com/J-F-Liu/lopdf) - Rust PDF manipulation.
+- [pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - Fast Rust PDF library with text and image extraction, markdown conversion, and bindings for many languages.
+- [printpdf](https://github.com/fschutt/printpdf) - Create printable PDF documents.
+- [Rubrol](https://github.com/maxcomperatore/rubrol) - High-performance Typst-based PDF engine and HTTP sidecar for sub-millisecond document and invoice generation.
+
+### Misc/Multi-language
+
+- [Oicana](https://oicana.com) - Tools and libraries for document templating based on Typst. Supports Node.js, Python, Java, C#, Rust, PHP, and the browser.
+- [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - PDF support in the Electron framework.
+- [Gmail To PDF](https://github.com/pixelcog/gmail-to-pdf) - Google Apps script utilities to convert emails to PDF.
+- [pdf-toolbox](https://github.com/Yuras/pdf-toolbox) - Haskell PDF processing tools.
+- [clj-pdf](https://github.com/clj-pdf/clj-pdf) - Clojure PDF generation.
+- [sPDF](https://github.com/cloudify/sPDF) - Scala library to produce PDFs from web pages.
+- [Fullbleed](https://github.com/fullbleed-engine/fullbleed-official) - Static HTML/CSS to PDF in Python, Rust, Node.js, C#, and the browser, with explicit fonts and PNG previews.
+
+## SDKs
+    
+- [Foxit SDK](https://developers.foxit.com/) - Official SDK, includes core API for seven platforms.
+- [PDFTron](https://www.pdftron.com) - Brings PDF capabilities to applications.
+- [iText PDF](https://itextpdf.com/en) - Commercial SDK and several other PDF tools.
+
+## APIs
+
+- [Tamperlens](https://tamperlens.com/api-reference) - Document trust API returning structural tampering signals with the raw evidence (revisions appended after the original save, contradictory metadata, producer fingerprints, live text under redaction boxes, edits after a digital signature); PDF, Office and images; free tier of 50 documents/month.
+- [HTPBE](https://htpbe.tech/api) - Forensic API that detects tampered/modified PDFs from the structural layer (metadata, xref, incremental updates, signatures); works without the original file.
+- [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api) - Convert HTML to PDF files.
+- [DocRaptor](https://docraptor.com/) - HTML to PDF API.
+- [PolyDoc](https://polydoc.tech/) - HTML to PDF and screenshots, with PDF/A and tagged PDF/UA output and an optional veraPDF check that fails the request instead of returning a non-conforming file.
+- [HTPBE?](https://htpbe.tech/api) - Forensic API that detects tampered/modified PDFs from the structural layer (metadata, xref, incremental updates, signatures); works without the original file.
+- [RichText2Pdf API](https://rapidapi.com/convertapi/api/richtext2pdf/details) - Convert rich text documents to PDF.
+- [Excel2Pdf API](https://english.api.rakuten.net/convertapi/api/excel2pdf) - Convert Excel docs to PDF files.
+- [DOCX to PDF API](https://www.convertapi.com/docx-to-pdf) - Convert Word to PDF.
+- [ConvertAPI PowerPoint2Pdf API](https://www.programmableweb.com/api/convertapi-powerpoint2pdf/sdks) - Convert PowerPoint to PDF files using any of nine languages.
+- [HTML to PDF conversion with CSS and JavaScript](https://rapidapi.com/tkdchamp/api/html-to-pdf-conversion-with-css-and-javascript) - The name says it all.
+- [instant-pdf](https://github.com/yogthos/instant-pdf) - Send JSON in a post request to automatically generate PDF files.
+- [Textibility API](https://rapidapi.com/ideasynthesis/api/textibility) - Provides capabilities like compression, filtering, and text extraction.
+- [Actual Reports](https://actualreports.com/) - API for transactional PDF generation.
+- [edocr](https://www.edocr.com/v/bypjgeml/edocr/edocr-public-api-reference) - Use documents to generate leads.
+- [WebSequenceDiagrams](https://www.websequencediagrams.com/embedding.html) - Generate URL diagrams, in PDF and other formats.
+
+- [Power PDF](https://www.kofax.com/products/power-pdf) - Desktop software promising accurate file conversion.
+- [PDFSpark](https://pdfspark.dev) - Free PDF generation API.
+- [Tanod PDF API](https://tanod.dev/learn/pdf-merge-api.html) - Pay-per-call PDF API and MCP tools: merge, split, compress, OCR, form fill, table extraction, PDF to Word, Office to PDF. No account; free daily tier, then per-call USDC payment over x402.
+
+## Documentation
+
+- [Understanding PDF Standards](https://www.foxit.com/blog/understanding-pdf-standards-compliance/) - PDF standards compliance.
+- [DC Developer Resources](https://opensource.adobe.com/dc-acrobat-sdk-docs/) - Documentation for PDF Library SDK and others.
+
+## WordPress Plugins
+
+- [SwipeBook PDF Viewer](https://codecanyon.net/item/swipebook-pdf-viewer-wordpress-plugin/21715406) - Commercial WordPress plugin to display PDF files.
+- [WooCommerce PDF Catalog](https://codecanyon.net/item/woocommerce-pdf-catalog/15310703) - Use PDF with WooCommerce.
+- [PDF Viewer for WordPress](https://codecanyon.net/item/pdf-viewer-for-wordpress/8182815) - Popular WordPress PDF viewer.
+- [WordPress Content to PDF](https://codecanyon.net/item/wordpress-content-to-pdf-blog-to-pdf/27614773) - Export blog posts to PDF files.
+
+## Add-ons/Components
+
+- [Laravel PDF](https://github.com/niklasravnsborg/laravel-pdf) - Convert HTML to PDF within Laravel.
+- [Rails PDF](https://github.com/igorkasyanchuk/rails_pdf) - Create PDF documents from HTML in Ruby on Rails.
+
+## Tools
+- [OffPDF](https://offpdf.com) - Open-source desktop PDF toolbox for editing, merging, conversion, compression, OCR, and more, with all processing performed locally.
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free browser-based PDF tools. Compress, merge, split, convert. All local WebAssembly processing — no file uploads.
+- [hushvert](https://hushvert.com) - Privacy-first browser-based PDF tools. Merge, split, rotate, and render PDFs locally via WebAssembly with no file uploads, plus a hosted API for PDF to Word and Office to PDF.
+- [OnDevicePDF](https://www.ondevicepdf.com) - Free browser-based PDF tools — merge, split, compress, edit, sign, OCR. The security tools (password protect/remove/recover, redact) run under a sealed CSP so files provably never leave the browser; live proof at [ondevicepdf.com/verify](https://www.ondevicepdf.com/verify).
+- [No Fuss PDF](https://nofusspdf.com/) - Focused browser-local tools for filling and signing, merging, splitting, and converting PDFs and images with no upload, account, payment, or watermark.
+- [norito](https://norito.in/pdf/) — Free browser-based PDF tools: merge, split, compress, rotate, sign, watermark, extract text, and compare two PDFs. All client-side via pdf-lib and pdf.js, no file uploads.
+- [Druckdatei prüfen](https://druckdatei-pruefen.vercel.app) - Checks a book interior PDF against print-on-demand requirements before upload: trim size of every page, mixed page sizes, non-embedded fonts, distance from the printed area to all four paper edges reported separately for the inside (gutter) and outside edge, gutter width against page count, and the effective resolution of each image at the size it is placed. Thresholds cite Amazon KDP's published tables. Runs entirely client-side via pdf.js, no upload and no signup. German UI.
+- [Filewhisk](https://filewhisk.com/pdf-tools/) - Free browser-based PDF tools: merge with per-file page ranges and bookmarks, split by page, range or bookmark (or cut scanned spreads in half), delete pages with blank page detection, JPG to PDF and PDF to JPG. Client-side via pdf-lib and PDF.js; no uploads or signup.
+- [PDF Smart Kit](https://pdfsmartkit.org) - Free browser-based PDF tools: merge, split, compress, convert, watermark, protect and unlock. Client-side via pdf-lib and PDF.js; no file uploads or signup.
+
+### Converters
+
+- [Refentra Images to PDF](https://refentra.com/tools/images-to-pdf/) - Combine JPEG, PNG, and WebP images into one PDF in the browser. Reorder pages and choose A4, Letter, or image-sized pages; no upload or account required.
+- [pdfcrowd](https://pdfcrowd.com/) - Automatically convert web pages to PDF. Also includes an API.
+- [HTML to PDF](https://html2pdf.com/) - Free and automatic web to PDF converter.
+- [PDF Dark](https://pdfdark.org) – Free browser-based PDF dark-mode converter.
+- [pdfkits.app](https://pdfkits.app) - Online toolkit to merge, split, compress, convert and manipulate PDF files.
+- [Webpage to PDF](https://webpagetopdf.com/) - Paste in a URL and get a PDF file.
+- [W2P](https://www.web2pdfconvert.com/) - Another web to PDF converter.
+- [PDFmyURL](https://pdfmyurl.com/) - Accurate, feature-rich web to PDF converter.
+- [Docs.zone](https://docs.zone/) - Combine and convert PDF files.
+- [Convert PDF Online](https://www.pdfconvertonline.com/) - Convert to and from multiple formats, and several other features.
+- [Light PDF](https://lightpdf.com/) - Converter and other tools.
+- [Online PDF Converter](https://online2pdf.com/) - Turn other files into PDFs.
+- [pdf2image](https://github.com/Belval/pdf2image) - Python module to convert PDFs to images.
+- [Brainiall PDF to Markdown Action](https://github.com/fasuizu-br/brainiall-pdf-to-markdown-action) - GitHub Action that converts PDF files to Markdown through the hosted Brainiall API.
+- [CleverPDF](https://www.cleverpdf.com/) - File converter with a good selection of formats.
+- [PDFExcel](https://pdfexcel.ai) - AI-powered converter that turns any PDF — including scanned and photographed documents — into Excel, CSV, or Google Sheets without templates.
+- [CV Boilerplate](https://github.com/mrzool/cv-boilerplate) - Generate PDF résumés via LaTeX.
+- [backslide](https://github.com/sinedied/backslide) - Presentation creator using Markdown and converting to PDF.
+- [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf) - Multi-format document reader for Windows.
+- [Markdown Resume Generator](https://github.com/there4/markdown-resume) - PHP tool to convert markdown to PDF and HTML résumés.
+- [paper2md](https://paper2md.com/) - Web tool to convert academic and technical PDFs into clean Markdown. Preserves LaTeX formulas (KaTeX/MathJax/Obsidian compatible), converts complex research tables to valid GFM Markdown, and extracts figures into a ZIP. Free for 100 pages/month.
+- [CopyMarkdown](https://copymarkdown.com/pdf-to-markdown/) - Free web tool to convert PDFs to clean Markdown. A companion [Chrome extension](https://chromewebstore.google.com/detail/bafbipicilofikmmjdeckfjghfdffdgp) converts webpages and AI chat conversations, and a separate free web tool converts GitHub repos. No signup required.
+- [file2markdown](https://www.file2markdown.ai/convert/pdf-to-markdown) - Browser-based PDF/DOCX/PPTX/XLSX/HTML/EPUB/URL to Markdown converter that keeps headings and tables; AI OCR for scanned PDFs. Free tier, no signup; MCP server for AI assistants.
+- [BankStatement2PDF](https://bankstatement2pdf.com/) - Free web converter for text-based PDF bank statements to Excel, CSV, QBO, OFX and QIF, with a transaction preview before download. No signup; scanned PDFs are not supported.
+- [Convert: Web to PDF](https://www.actuallyusefulextensions.com/tools/convert-web-to-pdf/) - Free Chrome extension that saves any webpage as a PDF, with ads removed and links kept clickable. Conversion runs locally in the browser; works on logged-in pages. No signup required.
+- [pdfmux](https://github.com/NameetP/pdfmux) - Open-source Python PDF-to-Markdown orchestrator. Routes each page to the best backend (PyMuPDF, Docling, RapidOCR, or Gemini Flash) and attaches a per-page confidence score so low-trust pages can be flagged. MIT licensed, `pip install pdfmux`; also ships an MCP server for AI agent use.
+
+### Misc
+
+- [FolioCove](https://mehbul.github.io/FolioCove/) - Free, MIT-licensed browser PDF workspace for merging, extracting and organizing pages, with on-device processing and no account required.
+- [Sejda](https://www.sejda.com/) - Whole suite of PDF services, including conversion, security, manipulation, and more.
+- [Potrivit](https://www.cbinsights.com/company/potrivit-beautiful-pdf-invoices) - Design PDF invoices.
+- [PDFElement](https://pdf.wondershare.com/) - Software for editing, creating, conversion, and more.
+- [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF files interactively in HTML.
+- [nodeice](https://github.com/IonicaBizau/nodeice) - PDF invoice generator.
+- [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert, and more. Client-side processing via WebAssembly; files never leave the browser.
+- [PDFSass](https://pdfsass.com/) - Free browser-based PDF toolkit with 35+ tools — merge, split, compress, convert, OCR, rotate, watermark, sign, and more. No signup required; files processed in-browser via WebAssembly.
+- [Slay PDF](https://slaypdf.com/) - Free local browser PDF editor for splitting, merging, signing, resizing, posterising, OCR and page editing. Open source and client-side.
+- [DoItSwift](https://doitswift.com/pdf/) - Free browser-based PDF tools — merge, split, compress, and PDF to JPG. No Server/Cloud upload, no signup. Everything runs locally in your browser.
+- [AllPDFMagic](https://allpdfmagic.com) - Free online PDF toolbox with 33+ tools and AI-powered workflows. Merge, split, compress, convert, edit, sign, and protect PDFs with zero signup. Features AI Summarizer, Invoice Extractor, Contract Analyzer, and Multi-PDF Chat.
+- [PDFMatePro](https://www.pdfmatepro.com/) - Free browser-based PDF toolkit with 75+ tools — merge, split, compress, OCR (30+ languages including Urdu/Arabic), sign, convert, and more. Client-side processing via WebAssembly; files never leave the browser. Includes region-specific tools like CNIC-to-PDF and fee challan-to-PDF for Pakistani users.
+- [PDFMasry](https://pdfmasry.com/) - Free Arabic-first browser PDF toolkit with 19 tools for merging, splitting, compression, Word/Excel/image conversion, OCR, protection, watermarking, and page organization. No signup or watermarks; most tools process files locally in the browser.
+- [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Watermark removal tool in Python.
+- [questio](https://github.com/abcreativ/questio) - Forensic PDF auditor CLI for detecting edited, forged, or tampered PDFs. Runs locally, no uploads.
+- [ClientPDF](https://abyworkings-coder.github.io/clientpdf/) - Free, client-side tool to merge PDF files entirely in the browser via pdf-lib. No upload, no signup, no server.
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free, privacy-first online PDF toolkit — merge, split, compress, convert, OCR, e-sign, and more. All processing is client-side; files never leave the browser.
+- [MoGuan (墨观)](https://moguanpdf.com) - Privacy-first browser PDF toolkit with 24 tools (merge, split, compress, OCR, watermark, sign, convert to Word/Excel, encrypt). The 20 classic/edit/convert tools run fully client-side via pdf.js + pdf-lib — files never uploaded, verifiable in the DevTools Network panel. Chinese-first, bilingual (zh/en), installable PWA.
+- [PDF Tool HQ](https://pdftoolhq.com/) - Free browser-based PDF tools to merge, split, and compress. Runs entirely client-side, so files never leave your device. No upload, no sign-up, no watermarks.
+- [KeyPDF](https://keypdf.net) - An independent, client-side PDF engine for editing existing PDF text, merges, annotations and filling forms directly in the browser without uploading files.
+- [Preflighter](https://preflighter.app) - Free browser-based prepress preflight and soft-proof for print-ready PDFs: color separations (CMYK + spot/Pantone) with per-plate toggles, overprint preview, total ink coverage (TAC) heatmap with adjustable threshold, densitometer, and font/image/page-box inspection. No signup; files are processed server-side and auto-deleted after 24 hours.
+- [testpageforprinter](https://testpageforprinter.com) - Free printer test sheets as vector PDFs (DeviceCMYK) in Letter and A4: color, CMYK, black and white, nozzle check, alignment, scale check, photo and duplex. No signup.
+- [PDFWatermark](https://pdfwatermark.top/) - Add text or PNG/JPG watermarks to PDF files locally in the browser. No uploads or account required.
+- [In-Tab Tools](https://intabtools.com/pdf/pdf-to-md) - Browser-based PDF tools: convert PDF to Markdown, convert Markdown to PDF, and remove PDF metadata (author, producer, etc). All processing runs client-side in the browser tab; no file is uploaded and no account is required. PDF-to-Markdown reads the PDF's existing text layer, so a scanned PDF with no text layer cannot be converted (no OCR).
+- [JustFill](https://justfill.app/solutions/fill-pdf-from-excel) - Hosted PDF form filler with reusable field layouts and Excel/CSV batch filling. Account required; free allowance and paid plans.
+- [PixelTools](https://pixeltools.io/) - Free browser-based PDF toolkit — merge, split, compress, convert, rotate, and watermark. 100% client-side via WebAssembly, no signup.
+
+## Software
+
+- [Foxit Software](https://www.foxit.com/) - Multiple PDF-related products and other resources.
+- [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat.html) - Tools from the original creators of the PDF format.
+- [XpdfReader](https://www.xpdfreader.com/) - Free PDF viewer and toolkit.
+- [Apache FOP](https://xmlgraphics.apache.org/fop/) - Formatting objects processor that supports PDFs.
+
+## Guides and Tutorials
+
+- [JavaTpoint](https://www.javatpoint.com/pdf) - Selection of clear, well-written guidance and information.
+- [Acrobat Library](https://acrobatusers.com/) - Acrobat guides and tutorials.
+- [Real Python](https://realpython.com/pdf-python/) - How to work with a PDF in Python.
+- [Hand-coded PDF Tutorial](https://brendanzagaeski.appspot.com/0005.html) - Technical overview on working with PDFs.
+- [Portable Document Format: An Introduction for Programmers](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntro/index.html) - Long, old overview of PDF files.
+- [Make your own PDF File](https://blog.idrsolutions.com/2010/09/grow-your-own-pdf-file-part-1-pdf-objects-and-data-types/) - Excellent multi-part guide to creating PDF files.
+- [Understanding the PDF File Format](https://blog.idrsolutions.com/2013/01/understanding-the-pdf-file-format/) - Outstanding overview and collection of posts about PDFs.
+- [Creating a PDF in Swift with PDFKit](https://www.raywenderlich.com/4023941-creating-a-pdf-in-swift-with-pdfkit) - PDF tutorial using Apple’s PDFKit.
+- [Convert PDF to Audio](https://dev.to/mustafaanaskh99/convert-any-pdf-file-into-an-audio-book-with-python-1gk4) - Guide to text to speech conversion with Python.
+- [Creating PDF Files in Java](https://www.baeldung.com/java-pdf-creation) - Java tutorial using iText and PdfBox.
+- [MathWorks](https://www.mathworks.com/matlabcentral/fileexchange/63615-read-text-from-a-pdf-document) - Reading a PDF in MATLAB using iText.
+- [jsPDF HTML to PDF Tutorial](https://www.codementor.io/@amehjoseph/convert-html-css-content-to-a-sleek-multiple-page-pdf-file-using-jspdf-javascript-library-eyyz74hci) - Convert HTML to PDF using jsPDF in JavaScript.
+- [HTML node tree to PDF tutorial](https://itnext.io/javascript-convert-html-css-to-pdf-print-supported-very-sharp-and-not-blurry-c5ffe441eb5e) - Convert an HTML node tree to PDF using jsPDF and html2canvas.
+
+## Videos
+
+- [Introducing PDFKit on iOS](https://developer.apple.com/videos/play/wwdc2017/241/) - Video and several other resources for Apple’s PDFKit.
+- [PDF—What is it for?](https://www.youtube.com/watch?v=48tFB_sjHgY) - Computerphile video.
+- [What is a PDF file?](https://www.youtube.com/watch?v=GtCfjFqphvM) - From Labelado.
+- [How to Insert a Signature on a PDF File](https://www.youtube.com/watch?v=FKlAwFcMutY) - By eHow Tech.
+- [How to Compress PDF File Size](https://www.youtube.com/watch?v=53tvJ_uD33M) - Tech-related tips.
+
+## Credits/Other lists
+
+- [awesome-list-pdf-creation](https://github.com/WesRoach/awesome-list-pdf-creation) - A good selection of PDF resources.
+- [awesome-pdf](https://github.com/abhi18av/awesome-pdf) - Long list of resources, including many open-source projects.
+
+## License
+
+Released under the [MIT license](https://opensource.org/licenses/MIT).
