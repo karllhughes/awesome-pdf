@@ -267,6 +267,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [MathWorks](https://www.mathworks.com/matlabcentral/fileexchange/63615-read-text-from-a-pdf-document) - Reading a PDF in MATLAB using iText.
 - [jsPDF HTML to PDF Tutorial](https://www.codementor.io/@amehjoseph/convert-html-css-content-to-a-sleek-multiple-page-pdf-file-using-jspdf-javascript-library-eyyz74hci) - Convert HTML to PDF using jsPDF in JavaScript.
 - [HTML node tree to PDF tutorial](https://itnext.io/javascript-convert-html-css-to-pdf-print-supported-very-sharp-and-not-blurry-c5ffe441eb5e) - Convert an HTML node tree to PDF using jsPDF and html2canvas.
+- [React HTML to PDF](https://snaphtml.one/react-html-to-pdf) - Guide to React static HTML, a signed-in PDF request, and response validation.
 
 ## Videos
 
